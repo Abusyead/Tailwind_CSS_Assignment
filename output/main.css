@@ -16,4 +16,6 @@
     .learn-span{
         @apply px-3 py-1 border border-[#F44335] rounded-full my-1 inline-block;
     }
+    .certi-btn{
+        @apply  col-span-2 border w-[120px] my-5 px-3 py-2 border-black rounded-full hover:bg-[#00FF84] duration-300 }
 }
