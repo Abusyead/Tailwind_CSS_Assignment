@@ -7,4 +7,10 @@
     .nav-bar{
         @apply transition-all scale-105 hover:text-[#F44335] duration-300 ;
     }
+    .hero-text{
+        @apply col-span-2 flex flex-col items-center justify-center ;
+    }
+    .hero-text-span{
+        @apply text-[#00FF84] font-semibold;
+    }
 }
